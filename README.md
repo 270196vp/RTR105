@@ -47,7 +47,7 @@ Teksts + **TAB (x2)**
 
 **ls -a**
 > _parādīt visus objektus_
-> Lai paslēptu objektu **ls** listē, objektam priekšā ieliek  **.**
+ Lai paslēptu objektu **ls** listē, objektam priekšā ieliek  **.**
 
 **ls -al** / **ls -la** / **ls -a -l** / **ls -l -a**
 > _parādīt informāciju par visiem objektiem_ 
